@@ -1,0 +1,10 @@
+C:\Users\40770\Desktop\Proiect Registru\RegistruVB\RegistruVB\obj\Debug\RegistruVB.Registru.resources
+C:\Users\40770\Desktop\Proiect Registru\RegistruVB\RegistruVB\obj\Debug\RegistruVB.Resources.resources
+C:\Users\40770\Desktop\Proiect Registru\RegistruVB\RegistruVB\obj\Debug\RegistruVB.vbproj.GenerateResource.cache
+C:\Users\40770\Desktop\Proiect Registru\RegistruVB\RegistruVB\bin\Debug\RegistruVB.exe.config
+C:\Users\40770\Desktop\Proiect Registru\RegistruVB\RegistruVB\bin\Debug\RegistruVB.exe
+C:\Users\40770\Desktop\Proiect Registru\RegistruVB\RegistruVB\bin\Debug\RegistruVB.pdb
+C:\Users\40770\Desktop\Proiect Registru\RegistruVB\RegistruVB\bin\Debug\RegistruVB.xml
+C:\Users\40770\Desktop\Proiect Registru\RegistruVB\RegistruVB\obj\Debug\RegistruVB.exe
+C:\Users\40770\Desktop\Proiect Registru\RegistruVB\RegistruVB\obj\Debug\RegistruVB.xml
+C:\Users\40770\Desktop\Proiect Registru\RegistruVB\RegistruVB\obj\Debug\RegistruVB.pdb
